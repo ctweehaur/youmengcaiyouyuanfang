@@ -2,7 +2,7 @@
 // 📝 《有梦才有远方》客观题 (Objective Questions) - 10题
 // ==========================================================================
 
-const objectiveQuestions = [
+const quizDataList = [
     {
         id: 1,
         question: "文章中，小草在寒冷孤寂中用什么来取暖？",
